@@ -1,4 +1,4 @@
-# 普通物理學 VPython
+# General Physics VPython
 
 ##### author: B10901176 蔡弘祥
 
